@@ -1,0 +1,10 @@
+name: breast_cancer_app
+title:
+username: connerspear
+account: connerspear
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17303935
+bundleId: 11954338
+url: https://connerspear.shinyapps.io/breast_cancer_app/
+version: 1
