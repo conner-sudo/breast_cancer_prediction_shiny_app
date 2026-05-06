@@ -1,7 +1,7 @@
 # Breast Cancer Risk Assessment Shiny App
 
 [![Live App](https://img.shields.io/badge/Live-Shiny_App-blue?style=for-the-badge&logo=R)](https://connerspear.shinyapps.io/breast_cancer_app/)
-![thumbnail]([thumbnail_breast_cancer_app.png]([https://github.com/conner-sudo/breast_cancer_prediction_shiny_app/tree/main/images](https://github.com/conner-sudo/breast_cancer_prediction_shiny_app/blob/main/images/thumbnail_breast_cancer_app.png)))
+![thumbnail](https://github.com/conner-sudo/breast_cancer_prediction_shiny_app/blob/main/images/thumbnail_breast_cancer_app.png)
 
 ## Overview
 This repository contains the code and documentation for a production-ready **R Shiny application** designed to predict breast cancer diagnoses (Malignant or Benign) based on cellular features. 
